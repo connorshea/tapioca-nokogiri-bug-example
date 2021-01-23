@@ -59,8 +59,5 @@ DEPENDENCIES
   nokogiri (~> 1.11)
   tapioca (~> 0.4.13)
 
-RUBY VERSION
-   ruby 2.7.2p137
-
 BUNDLED WITH
    2.2.5
